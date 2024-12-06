@@ -26,7 +26,7 @@ Olá meu nome é Lucas almeida, tenho 19 anos e sou um programador backend.Estou
 
 <div style="display: flex; align-items: center;">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=django,nodejs,express'/>
+    <img src='https://skillicons.dev/icons?i=django,express'/>
   </a>
 </div>
 
@@ -34,7 +34,7 @@ Olá meu nome é Lucas almeida, tenho 19 anos e sou um programador backend.Estou
 
 <div style="display: flex; align-items: center;">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=postgresql,mysql,sqlite'/>
+    <img src='https://skillicons.dev/icons?i=postgresql,sqlite'/>
   </a>
 </div>
 
@@ -50,7 +50,7 @@ Olá meu nome é Lucas almeida, tenho 19 anos e sou um programador backend.Estou
 
 <div style="display: flex; align-items: center;">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=vite,html,css,tailwind,react'/>
+    <img src='https://skillicons.dev/icons?i=vite,html,css,tailwind,react,nodejs'/>
   </a>
 </div>
 
