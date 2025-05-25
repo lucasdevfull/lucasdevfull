@@ -1,4 +1,4 @@
-# Olá! Meu nome é Lucas Almeida 👋
+# Olá! Meu nome é Lucas 👋
 
 ## Sobre mim
 
