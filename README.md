@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Olá meu nome é Lucas almeida, tenho 19 anos e sou um programador backend.Estou sempre em busca de aprender mais e melhorar mais as minhas habilidades no desenvolvimento de aplicações backend e futuramente fullstack.
+Olá meu nome é Lucas, tenho 19 anos e sou um programador backend.Estou sempre em busca de aprender mais e melhorar mais as minhas habilidades no desenvolvimento de aplicações backend e futuramente fullstack.
 
 ## Em aprendizado:
 
