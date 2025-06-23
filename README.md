@@ -8,7 +8,7 @@ Olá meu nome é Lucas, tenho 19 anos e sou um programador backend. Estou sempre
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=selenium'/>
+    <img src='https://skillicons.dev/icons?i=docker'/>
   </a>
 </div>
 
