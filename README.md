@@ -18,7 +18,7 @@ Olá meu nome é Lucas, tenho 19 anos e sou um programador backend. Estou sempre
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=js,ts,python'/>
+    <img src='https://skillicons.dev/icons?i=js,ts,python,kotlin,dart'/>
   </a>
 </div>
 
@@ -26,7 +26,7 @@ Olá meu nome é Lucas, tenho 19 anos e sou um programador backend. Estou sempre
 
 <div style="display: flex; align-items: center;">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=django,express'/>
+    <img src='https://skillicons.dev/icons?i=django,express,flutter'/>
   </a>
 </div>
 
